@@ -1,0 +1,54 @@
+.card_img{
+    width: 80%;
+    height: 250px;
+    margin: auto;
+    margin-top:20px;
+ }
+ .card{
+    margin: auto;
+    width: 25%;
+    height: auto;
+    display: inline-flex;
+    gap: 10px;
+     
+ }
+ /* .addbutton{
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+  } */
+  /* .addbutton{
+   width: 140px;
+   height: 40px;
+   background-color: black;
+   color: white;
+   border-radius: 10px;
+ } */
+ .mainbutton{
+   width: 140px;
+   height: 40px;
+   background-color:yellow;
+   color:black;
+   border-radius: 10px;
+   border: none;
+ }
+ .sub{
+   width: 50px;
+   /* height: 20px; */
+   background-color: yellow;
+   color:black;
+   border-radius: 10px;
+   border: none;
+ }
+ .addb{
+   width: 50px;
+   /* height: 20px; */
+   background-color: yellow;
+   color:black;
+   border-radius: 10px;
+   border: none;
+ }
+ 
+ 
