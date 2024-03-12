@@ -7,6 +7,7 @@ function feature(){
         <p>I am Mca Graduate</p>
         <p>I live in harpur</p>
         <p>I am Marketing</p>
+        <p>I am a Java Developer</p>
         </>
     )
 }
