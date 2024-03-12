@@ -1,7 +1,7 @@
 function feature(){
     return(
         <>
-        <p>Hello world(dropdown)</p>
+        <p>Hello world</p>
         </>
     )
 }
