@@ -6,6 +6,7 @@ function feature(){
         <p>I am 23 year old (2000)</p>
         <p>I am Mca Graduate</p>
         <p>I live in harpur</p>
+        <p>I am Marketing</p>
         </>
     )
 }
